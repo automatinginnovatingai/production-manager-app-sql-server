@@ -31,7 +31,8 @@ This app requires a valid Gumroad license key to unlock full functionality.
 • If the license is invalid or revoked, access will be restricted.  
 Note: Internet access is required for initial license validation.
 
-Note:
+Database
+--------
 Full SQL Server Version (Enterprise‑Grade – Medium to Large Companies)
 - Best for companies with IT infrastructure or a dedicated server.
 - Uses the full version of Microsoft SQL Server (Standard or Enterprise).
