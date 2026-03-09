@@ -5,7 +5,7 @@ This repository contains documentation for the Production Manager App SQL Server
 The Production Manager App was built to modernize workflows in the construction industry—specifically within fiberglass insulation. After witnessing firsthand how companies rely on paper-heavy, manual processes to handle installer paperwork, I saw an opportunity to streamline operations.
 This app replaces inefficient routines with a secure, offline  solution that automates payroll calculations, centralizes job data, and generates Excel reports—no cloud dependency, no wasted time, and no paper trails. It’s designed to bring real-world construction workflows into the future of tech, without compromising operational safety or control.
 
-3. Full SQL Server Version (Enterprise‑Grade – Medium to Large Companies)
+Full SQL Server Version (Enterprise‑Grade – Medium to Large Companies)
 - Best for companies with IT infrastructure or a dedicated server.
 - Uses the full version of Microsoft SQL Server (Standard or Enterprise).
 - No size limits, no memory limits, and no CPU limits.
