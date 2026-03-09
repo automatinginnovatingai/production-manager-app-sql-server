@@ -1,4 +1,4 @@
-Initial GitHub release for version 1.0.0.
+Initial GitHub release for version 1.0.1.
 
 This release includes:
 - Basic version
@@ -31,6 +31,15 @@ This app requires a valid Gumroad license key to unlock full functionality.
 • If the license is invalid or revoked, access will be restricted.  
 Note: Internet access is required for initial license validation.
 
+Note:
+Full SQL Server Version (Enterprise‑Grade – Medium to Large Companies)
+- Best for companies with IT infrastructure or a dedicated server.
+- Uses the full version of Microsoft SQL Server (Standard or Enterprise).
+- No size limits, no memory limits, and no CPU limits.
+- Supports many users, large data volumes, and high‑performance workloads.
+- Includes advanced features such as SQL Server Agent, high availability, and enterprise‑level security options.
+- Requires a paid SQL Server license.
+- Choose Full SQL Server if your company needs maximum performance, scalability, and enterprise features.
 
 
 Production_Manager_App_v1.0.1.exe
