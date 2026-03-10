@@ -1,4 +1,4 @@
-Initial GitHub release for version 1.0.1.
+Initial GitHub release for version 1.0.2
 
 This release includes:
 - Basic version
@@ -42,5 +42,3 @@ Full SQL Server Version (Enterprise‑Grade – Medium to Large Companies)
 - Requires a paid SQL Server license.
 - Choose Full SQL Server if your company needs maximum performance, scalability, and enterprise features.
 
-
-Production_Manager_App_v1.0.1.exe
